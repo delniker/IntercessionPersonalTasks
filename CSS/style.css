@@ -1,0 +1,20 @@
+.totheleft {
+    text-align: left;
+    width: 150px;
+}
+
+.totheright {
+    width: 150px;
+    text-align: right;
+    
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row {
+    font: Times;
+    background-color: lightblue;
+}
